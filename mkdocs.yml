@@ -1,5 +1,9 @@
 site_name: MkLorum
 site_url: https://example.com/
+
+#repository
+repo_name: Erick55555/pruebas_mkdocs
+repo_url: https://github.com/Erick55555/pruebas_mkdocs/
       
 theme:
   name: material
