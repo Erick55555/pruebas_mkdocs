@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://example.com/0.2/</loc>
          <lastmod>2023-05-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
@@ -10,7 +10,7 @@
          
     </url>
     <url>
-         <loc>https://example.com/Instalacion.ca/</loc>
+         <loc>https://example.com/0.2/Instalacion.ca/</loc>
          <lastmod>2023-05-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/Instalacion.ca/"/>

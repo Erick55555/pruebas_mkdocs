@@ -55,3 +55,4 @@ plugins:
           name: Catalan
           build: true
   - page-to-pdf
+  - mike

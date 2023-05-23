@@ -1,3 +1,3 @@
 # Instalacion
 
-Instalacion en catalan
+Instalación en catalan
