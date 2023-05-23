@@ -1,0 +1,53 @@
+site_name: MkLorum
+site_url: https://example.com/
+      
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra:
+  version:
+    provider: mike
+
+plugins:
+  - search
+  - i18n:
+      default_language: !ENV [DEFAULT_LANGUAGE, "en"]
+      default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
+      docs_structure: suffix
+      languages:
+        default:
+          name: Default (en)
+          build: true
+        en:
+          name: English
+          build: true
+        es:
+          name: Spanish
+          build: true
+        ca:
+          name: Catalan
+          build: true
+  - page-to-pdf
