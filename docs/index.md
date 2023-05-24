@@ -4,6 +4,8 @@ Ingles
 
 ![localized image](foto.jpg)
 
+![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
+
 ## Home 1
 
 Home 1 Ingles

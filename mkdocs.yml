@@ -50,7 +50,7 @@ plugins:
       docs_structure: suffix
       languages:
         default:
-          name: Default (en)
+          name: Default (Englis)
           build: true
         en:
           name: English
@@ -66,3 +66,4 @@ plugins:
           build: true
   - page-to-pdf
   - mike
+  - mkdocs-video
