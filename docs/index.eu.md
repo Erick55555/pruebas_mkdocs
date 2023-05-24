@@ -1,14 +1,10 @@
 # Inicio
 
-Ingles
-
-![localized image](foto.jpg)
+Euskera
 
 ## Home 1
 
-Home 1 Ingles
-
-### Home 2
+Home 1 Euskera
 
 ### Home 2
 

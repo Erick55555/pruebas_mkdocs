@@ -1,4 +1,4 @@
-site_name: MkLorum
+site_name: Pruebas
 site_url: https://example.com/
 
 #repository
@@ -35,6 +35,13 @@ extra:
   version:
     provider: mike
 
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
 plugins:
   - search
   - i18n:
@@ -53,6 +60,9 @@ plugins:
           build: true
         ca:
           name: Catalan
+          build: true
+        eu:
+          name: Euskera
           build: true
   - page-to-pdf
   - mike
