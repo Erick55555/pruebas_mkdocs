@@ -20,14 +20,4 @@
          <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/eu/Instalacion/"/>
          
     </url>
-    <url>
-         <loc>https://example.com/instalacion/</loc>
-         <lastmod>2023-05-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/instalacion/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/instalacion/"/>
-         <xhtml:link rel="alternate" hreflang="ca" href="https://example.com/ca/instalacion/"/>
-         <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/eu/instalacion/"/>
-         
-    </url>
 </urlset>
