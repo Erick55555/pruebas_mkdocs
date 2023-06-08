@@ -1,12 +1,12 @@
 # Inicio
 
-Catalan
+Castellano
 
-![localized image](foto.jpg)
+![localized image](../img/foto.jpg)
 
-## Home 1
+## grupo 1
 
-Home 1 catalan
+Home 1 castellano
 
 ### Home 2
 

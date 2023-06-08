@@ -2,7 +2,7 @@
 
 Castellano
 
-![localized image](foto.jpg)
+![localized image](img/foto.jpg)
 
 ## grupo 1
 

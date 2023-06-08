@@ -1,16 +1,12 @@
 # Inicio
 
-Ingles
+Castellano
 
-![localized image](foto.jpg)
+![localized image](../img/foto.jpg)
 
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
+## grupo 1
 
-## Home 1
-
-Home 1 Ingles
-
-### Home 2
+Home 1 castellano
 
 ### Home 2
 
