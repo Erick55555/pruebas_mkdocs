@@ -17,29 +17,16 @@ theme:
   logo: logo.png
   name: material
   features:
-    - announce.dismiss
-    - content.action.edit
-    - content.action.view
-    - content.code.annotate
-    - content.code.copy
-    # - content.tabs.link
-    - content.tooltips
-    # - header.autohide
-    # - navigation.expand
-    - navigation.footer
-    - navigation.indexes
-    # - navigation.instant
-    # - navigation.prune
-    - navigation.sections
+    - header.autohide
     - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
+    - navigation.sections
     # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
   language: es
   palette:
     - scheme: default
@@ -87,6 +74,24 @@ plugins:
         eu:
           name: Euskera
           build: true
-  - page-to-pdf
+      nav_translations:
+        es:
+          Inicio: Inicio
+          Manual 1: Manual1
+          Manual 2: Manual2
+        en:
+          Inicio: start
+          Manual 1: Manual 1
+          Manual 2: Manual 2
+        ca:
+          Inicio: Inici
+          Manual 1: Manual 1
+          Manual 2: Manual 2
+        eu:
+          Inicio: Hasiera
+          Manual 1: eskuliburua 1
+          Manual 2: eskuliburua 2
   - mike
   - mkdocs-video
+  - page-to-pdf
+
